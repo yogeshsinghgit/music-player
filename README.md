@@ -1,9 +1,10 @@
 # music-player
 music - player using tkinter and pygame ...... 
 
+This is my take on this project I found from dynamic_codeing on Instagram.
 
-""" my name is yogesh singh , Admin og instagram page dynamic_codeing ....
- you can follow me on github and instagram for more amazing python projects ..."""
+@yogesh-singh028 
 
-Note === first install " pygame " in your system , before running this code ....
-and for more information you can message me at my instagram account @dynamic_codeing .....
+
+You will need to install pygame first.
+pip3 install pygame
