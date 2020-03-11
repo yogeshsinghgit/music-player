@@ -66,7 +66,7 @@ class MusicPlayer:
         self.scale.set(50)
         self.scale.grid(row=1,columnspan=3,padx=10,pady=5)
 
-        # Inserting Stop Button
+        # Inserting Open Button
         openbtn = Button(buttonframe, text="Open", command=self.open, width=6, height=1,
                          font=("times new roman", 14, "bold"), fg="navyblue", bg="gold").grid(row=1, column=3, padx=5,pady=5)
 
