@@ -85,7 +85,7 @@ class MusicPlayer:
         self.playlist.pack(fill=BOTH)
 
         # Changing Directory for fetching Songs
-        os.chdir("C:\\Users\Yogesh\\Desktop\\internet explorer\\pchjd")
+        os.chdir("C:\\Users\\Yogesh\\Desktop\\internet explorer\\pchjd")
 
         # Fetching Songs
         songtracks = os.listdir()
